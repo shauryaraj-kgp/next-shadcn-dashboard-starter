@@ -43,6 +43,7 @@ _If you are looking for a React admin dashboard starter, here is the [repo](http
 | [Product/new](https://next-shadcn-dashboard-starter.vercel.app/dashboard/product/new)   | A Product Form with shadcn form (react-hook-form + zod).                                                                            |
 | [Profile](https://next-shadcn-dashboard-starter.vercel.app/dashboard/profile)           | Mutistep dynamic forms using react-hook-form and zod for form validation.                                                           |
 | [Kanban Board](https://next-shadcn-dashboard-starter.vercel.app/dashboard/kanban)       | A Drag n Drop task management board with dnd-kit and zustand to persist state locally.                                              |
+| [Support](https://next-shadcn-dashboard-starter.vercel.app/dashboard/support)           | A chat interface in the website to help support staff aid customers in need.                                                        |
 | [Not Found](https://next-shadcn-dashboard-starter.vercel.app/dashboard/notfound)        | Not Found Page Added in the root level                                                                                              |
 | -                                                                                       | -                                                                                                                                   |
 
@@ -50,7 +51,7 @@ _If you are looking for a React admin dashboard starter, here is the [repo](http
 
 Follow these steps to clone the repository and start the development server:
 
-- `git clone https://github.com/Kiranism/next-shadcn-dashboard-starter.git`
+- `git clone https://github.com/shauryaraj-kgp/next-shadcn-dashboard-starter.git`
 - `npm install`
 - Create a `.env.local` file by copying the example environment file:
   `cp env.example.txt .env.local`
