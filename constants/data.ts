@@ -168,5 +168,12 @@ export const navItems: NavItem[] = [
     icon: 'kanban',
     isActive: false,
     items: [] // No child items
+  },
+  {
+    title: 'Support',
+    url: '/dashboard/support',
+    icon: 'support',
+    isActive: false,
+    items: [] // No child items
   }
 ];

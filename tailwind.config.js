@@ -61,7 +61,8 @@ module.exports = {
           'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
           border: 'hsl(var(--sidebar-border))',
           ring: 'hsl(var(--sidebar-ring))'
-        }
+        },
+        'hover-gray': 'rgb(39, 39, 42)'
       },
       borderRadius: {
         lg: 'var(--radius)',
